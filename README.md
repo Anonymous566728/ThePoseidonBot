@@ -1,17 +1,17 @@
-# `🧿 𝚃𝚑𝚎 𝙼𝚢𝚜𝚝𝚒𝚌 - 𝙱𝚘𝚝 🔮`
+# `🧿 𝚃𝚑𝚎 Poseidon - 𝙱𝚘𝚝 🔮`
 
 ### `—◉ 👑 DUDAS SOBRE EL BOT?, CONTACTAME 👑`
-<a href="http://wa.me/5219992095479" target="blank"><img src="https://img.shields.io/badge/BRUNO_SOBRINO-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+<a href="http://wa.me/12367065567" target="blank"><img src="https://img.shields.io/badge/POSEIDON_CDN-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 > NO BOT
 
 ### `—◉ 💰 DONAR 💰`
-- AGRADECE CON UNA DONACION VOLUNTARIA [Aqui](https://www.paypal.me/TheShadowBrokers133)
+- AGRADECE CON UNA DONACION VOLUNTARIA [Aqui](5579 0830 1616 5066 SANTANDER)
 
 ### `—◉ 🖍 LETRA DEL BOT 🖍`
 - PAGINA USADA PARA LA LETRA [Aqui](https://smiley.cool/es/weirdmaker.php)
 
 ### `—◉ ✨ ACTIVAR EN HEROKU ✨`
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/BrunoSobrino/TheMystic-Bot-MD)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Poseidon/Poseidon-Bot-MD)
 ```bash
 [❗] FALLAS POR EL MOMENTO EN HEROKU, SE TRABAJA EN SOLUCIONAR ERRORES.
 AÑADE AL APARTADO DE BUILPACK LO SIGUIENTE, SI YA APARCEN SOLO IGNORA ESTA PARTE:
@@ -23,8 +23,8 @@ ADVERTENCIA: HEROKU ESTA SUSPENDIENDO CUENTAS POR SOLO USAR EL BOT, POR AHORA NO
 ```
 
 ### `—◉ ⚙️ AJUSTES ⚙️`
-- CLONAR EL REPOSITORIO [Aqui](https://github.com/BrunoSobrino/TheMystic-Bot-MD/fork)
-- CAMBIAR NÚMERO DEL OWNER [Aqui](https://github.com/BrunoSobrino/TheMystic-Bot-MD/blob/master/config.js)
+- CLONAR EL REPOSITORIO [Aqui](https://github.com/Poseidon/ThePoseidon-Bot-MD/fork)
+- CAMBIAR NÚMERO DEL OWNER [Aqui](https://github.com/Poseidon/ThePoseidon-Bot-MD/blob/master/config.js)
 
 ### `—◉ 👾 ACTIVAR EN TERMUX 👾`
 ```bash
@@ -38,8 +38,8 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 > pkg install ffmpeg -y
 > pkg install imagemagick -y
 > pkg install yarn
-> git clone https://github.com/BrunoSobrino/TheMystic-Bot-MD
-> cd TheMystic-Bot-MD
+> git clone https://github.com/Poseidon/ThePoseidon-Bot-MD
+> cd ThePoseidon-Bot-MD
 > yarn install 
 > npm install
 > npm update
@@ -50,7 +50,7 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 ```bash
 ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 > cd 
-> cd TheMystic-Bot-MD
+> cd ThePoseidon-Bot-MD
 > npm start
 ```
 
@@ -58,13 +58,13 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 ```bash
 ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 > cd 
-> cd TheMystic-Bot-MD
+> cd ThePoseidon-Bot-MD
 > rm -rf session.data.json
 > npm start
 ```
 
 ### `—◉ 🔥 ACTIVAR EN BOXMINEHOST 🔥`
-<img src="https://raw.githubusercontent.com/BrunoSobrino/TheMystic-Bot-MD/master/src/Pre%20Bot%20Publi.png" alt="GIF" width="450" height="240"/>
+<img src="https://raw.githubusercontent.com/Poseidon/ThePoseidon-Bot-MD/master/src/Pre%20Bot%20Publi.png" alt="GIF" width="450" height="240"/>
 <p>> Pagina Oficial:
 <a href="https://boxmineworld.com">https://boxmineworld.com</a>
 <p>> Dashboard:
@@ -72,7 +72,7 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 <p>> Panel:
 <a href="https://panel.boxmineworld.com">https://panel.boxmineworld.com</a>
 <p>> Tutorial:
-<a href="https://youtu.be/eC9TfKICpcY">https://youtu.be/eC9TfKICpcY</a>
+<a href="https://youtube.com/channel/UCEDDql2EyQNcZiTs900eaMA">https://youtube.com/channel/UCEDDql2EyQNcZiTs900eaMA</a>
 <p>> Dudas UNICAMENTE SOBRE EL HOST:
 <a href="https://discord.gg/84qsr4v">https://discord.gg/84qsr4v</a> (Preguntar por Vicemi)
 </p>
@@ -93,7 +93,7 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 ```
 
 ## `EDITOR Y PORPIETARIO DEL BOT` 
-[![BrunoSobrino](https://avatars.githubusercontent.com/u/90165013?s=400&u=946f5c00c527c7e6fa2ef5148c6ad56270bb600e&v=4size=100)](https://github.com/BrunoSobrino/) 
+[![PoseidonCDN](https://avatars.githubusercontent.com/u/90165013?s=400&u=946f5c00c527c7e6fa2ef5148c6ad56270bb600e&v=4size=100)](https://github.com/Poseidon/) 
 
-`The Mystic - Bot __________ By Bruno Sobrino`
+`The Poseidon - Bot __________ By Poseidon CDN`
 
